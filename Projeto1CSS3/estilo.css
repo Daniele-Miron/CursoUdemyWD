@@ -1,0 +1,27 @@
+.titulo { 
+	background: #F8F3CD;
+	color: #5F4C0B;
+}
+
+.fundo1 {
+	background:url(imagens/fundo.png) repeat fixed center top;
+}
+
+.fundo2 {
+	background: #F8F3CD;
+
+}
+
+.borda {
+	
+	border-color: #B6B287;
+	border-width: 15px;
+	border-style: solid;
+
+}
+
+#cabecario {
+	background: #B6B287;
+	font-family:  Arial, sans-serif;
+	
+}
